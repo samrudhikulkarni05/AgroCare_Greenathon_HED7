@@ -25,6 +25,10 @@ AgroCare focuses on sustainable farming, preventing chemical overuse, reducing c
 The system aligns with the HED 7.0 – Greenathon (Hack. Build. Sustain.) theme by solving a real agricultural problem through accessible AI, promoting environmental care, and offering a scalable tool that can be embedded in community platforms, KVKs, NGOs, and rural apps.
 
 ---
+
+### Detailed Report
+https://github.com/samrudhikulkarni05/AgroCare_Greenathon_HED7/commit/ca2b6f507e96e4df2b48761de5c3405958142687
+
 ### Key Features
 
 Instant Disease Detection — Upload a photo or type symptoms and get quick diagnosis.
