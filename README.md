@@ -107,6 +107,9 @@ It demonstrates how AI, when designed to be inclusive and privacy‑aware, can h
 - *Integration with government schemes*: Link with government initiatives and subsidies.
 - *Community features*: Add forums or Q&A sections for farmer interactions.
 
+---
+
+
 ## 👥 Team AgroCare
 
 | Member              | GitHub Profile                                                |
