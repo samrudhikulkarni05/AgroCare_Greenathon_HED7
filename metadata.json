@@ -1,0 +1,9 @@
+{
+  "name": "Kisan Plant Doctor",
+  "description": "A multilingual AI plant disease detection and advisory tool for farmers.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
