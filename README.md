@@ -98,7 +98,7 @@ It demonstrates how AI, when designed to be inclusive and privacy‑aware, can h
 
 ---
 
-## Future Scope
+## 🌱 Future Scope
 - *Offline capabilities*: Implement Progressive Web App (PWA) features for offline access and caching.
 - *Image-based disease detection*: Integrate machine learning models for automatic disease detection from images.
 - *Localized cropping guides*: Add region-specific crop information and advisory.
