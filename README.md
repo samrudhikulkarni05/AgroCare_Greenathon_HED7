@@ -19,9 +19,9 @@ AgroCare is a multimodal, farmer-first AI assistant that helps prevent crop loss
 AgroCare is intentionally built *without* a traditional database to keep things simple, safe, and reliable for farmers.
 
 - *No accounts, no passwords, no complexity:* Farmers never have to sign up, remember credentials, or deal with “technical” issues like logins, OTPs, or failed sessions. The app is open and ready to use from the first click.  
-- *Fewer things that can break:* By avoiding a database, there is no risk of “DB down”, corrupted tables, or migration errors. This stateless style makes the system easier to run and more resilient in real-world conditions.[web:34][web:40]  
-- *Faster and lighter for rural infrastructure:* Without a database layer, the app needs fewer backend services, which helps keep hosting costs low and performance stable even on modest college/NGO infrastructure.[web:33]  
-- *Privacy by design:* Farmer images, audio, and queries are processed in real time and are not permanently stored, which reduces the risk of data misuse and makes farmers more comfortable using the tool.[web:36]  
+- *Fewer things that can break:* By avoiding a database, there is no risk of “DB down”, corrupted tables, or migration errors. This stateless style makes the system easier to run and more resilient in real-world conditions.
+- *Faster and lighter for rural infrastructure:* Without a database layer, the app needs fewer backend services, which helps keep hosting costs low and performance stable even on modest college/NGO infrastructure. 
+- *Privacy by design:* Farmer images, audio, and queries are processed in real time and are not permanently stored, which reduces the risk of data misuse and makes farmers more comfortable using the tool. 
 
 If required in future, a database can be plugged in for features like follow-up tracking or disease hotspot analytics, but the *current design is optimized to remove all technical friction for farmers* and make deployment as plug-and-play as possible for organizers.
 
@@ -31,15 +31,12 @@ If required in future, a database can be plugged in for features like follow-up 
 
 | Layer     | Technology                           | Why it was chosen |
 |----------|---------------------------------------|-------------------|
-| Frontend | React + TypeScript + Vite            | Fast HMR, type safety, and small bundles for slow rural networks.[web:41] |
-| AI Engine| Google Gemini API (@google/genai)  | Multimodal (image, audio, video, text) and multilingual capabilities for real farm contexts.[web:4] |
+| Frontend | React + TypeScript + Vite            | Fast HMR, type safety, and small bundles for slow rural networks.|
+| AI Engine| Google Gemini API (@google/genai)  | Multimodal (image, audio, video, text) and multilingual capabilities for real farm contexts.|
 | Styling  | HTML, CSS, lightweight JS            | Smooth performance on shared, low-RAM, or older devices. |
-| Config   | .env                               | Keeps API keys outside the codebase and simplifies environment-specific setups.[web:41] |
+| Config   | .env                               | Keeps API keys outside the codebase and simplifies environment-specific setups. |
 
 ---
-Follow these steps to run AgroCare locally.
-## ⚙️ Local Setup Instructions
-
 Follow these steps to run AgroCare locally.
 ## ⚙️ Local Setup
 
