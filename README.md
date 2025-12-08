@@ -37,9 +37,6 @@ If required in future, a database can be plugged in for features like follow-up 
 | Config   | .env                               | Keeps API keys outside the codebase and simplifies environment-specific setups.[web:41] |
 
 ---
-
-## ⚙ Local Setup Instructions
-
 Follow these steps to run AgroCare locally.
 ## ⚙️ Local Setup Instructions
 
