@@ -166,41 +166,7 @@ It demonstrates how AI, when designed to be inclusive and privacy‑aware, can h
 | 🟪 **[Rutuja Raut](https://github.com/rutujaraut730)** <br> `Frontend Developer` | ![Frontend](https://img.shields.io/badge/Frontend-Developer-purple) ![Research](https://img.shields.io/badge/Research-grey) |
 | 🟩 **[Sakshi Tamshetti](https://github.com/SakshiTamshetti)** <br> `Chatbot Developer` | ![Chatbot](https://img.shields.io/badge/Chatbot-Developer-green) ![AI](https://img.shields.io/badge/AI%20Integration-darkgreen) ![Docs](https://img.shields.io/badge/Documentation-yellow) |
 
----
-## 🔧 Hosted AgroCare in Google AI Studio
 
-Follow these quick steps to open and run the app smoothly:
-
-### 1️⃣ Open the App Link  
-Click the link below in **Google Chrome**:  
-https://aistudio.google.com/app/apps/drive/1BV03G7_e7-tnd-1wlRxgk5qvmR3-9TrE
-
-### 2️⃣ Allow Google Drive Access  
-If you see **“No access to Drive”**:  
-- Click **Allow Drive access**  
-- Select the **same Google account** where the app is saved  
-- Confirm the permission
-
-### 3️⃣ Sign In (If Required)  
-If you're asked to sign in:  
-- Log in with the correct Google account  
-- On **“This app is for developers”**, click **Continue**
-
-### 4️⃣ Enable Camera & Microphone  
-When Chrome asks:  
-**“Allow aistudio.google.com to use your camera/microphone?”**  
-➡️ Click **Allow**
-
-If you accidentally blocked it:  
-- Click the **lock icon** beside the URL  
-- Go to **Site settings**  
-- Set **Camera** → Allow  
-- Set **Microphone** → Allow  
-- Reload the page
-
-### 5️⃣ Use Full Screen  
-After the app loads:  
-- Press on mobile, tap the browser’s **Full Screen** icon
 ---
 ## Overall Conclusion
 
