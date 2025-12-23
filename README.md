@@ -46,7 +46,7 @@ AgroCare – Kisan Plant Doctor is a smart agriculture support platform designed
 
 ---
 
-###🧭 Project Dashboard (Main Modules)
+### 🧭 Project Dashboard (Main Modules)
 
 🏠 Dashboard (Main Page) – Central access to all services
 
