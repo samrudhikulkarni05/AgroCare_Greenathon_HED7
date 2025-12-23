@@ -1,12 +1,16 @@
 # 🌿 AgroCare: Kisan Plant Doctor  
-### Zero-Barrier AI for Sustainable Farming
 
 [![Tech Stack](https://img.shields.io/badge/stack-React%20%7C%20TypeScript%20%7C%20Vite-blue)](https://vitejs.dev/)
 [![AI](https://img.shields.io/badge/AI-Google%20Gemini-orange)](https://ai.google.dev/)
 [![Made for Farmers](https://img.shields.io/badge/focus-Farmer--First-success)](https://github.com/topics/agriculture)
-[![Hackathon](https://img.shields.io/badge/HED%207.0-Greenathon-brightgreen)](https://github.com/topics/hackathon)  
+[![Hackathon](https://img.shields.io/badge/HED%207.0-Greenathon-brightgreen)](https://github.com/topics/hackathon)
 
-AgroCare is a multimodal, farmer-first AI assistant that helps prevent crop loss and chemical overuse by giving instant, safe, and localized plant health advice in regional languages — with no login, no app install, and support for low-end devices.
+
+Healthy Crops. Strong Farmers.
+
+Smart Crop Check · Helping Our Farmers
+
+KisanDoctor is an AI-powered crop health diagnosis platform designed to support Indian farmers. By simply uploading a photo of a crop leaf, farmers can instantly detect diseases and receive the best treatment suggestions.
 
 <p align="center">
   <img width="1904" height="773" alt="Screenshot 2025-12-23 200744" src="https://github.com/user-attachments/assets/f0eea8fd-4d68-428e-9c27-86c12e98915e" />
@@ -15,32 +19,54 @@ AgroCare is a multimodal, farmer-first AI assistant that helps prevent crop loss
 
 ---
 
+🚀 Project Overview
+
+Agriculture is the backbone of India, yet crop diseases often lead to major yield losses. KisanDoctor bridges the gap between technology and farming by using Artificial Intelligence and Computer Vision to identify crop diseases early and accurately.
+
+📸 Upload a crop image → 🤖 AI analyzes it → 🌾 Get disease details & cure
+
+---
+
 ### AgroCare – Kisan Plant Doctor
 
-Smart, Eco-Friendly Crop Health Assistant for Farmers
+🌾 AgroCare – Kisan Plant Doctor
+AI-Powered Crop Health & Disease Detection System
 
-AgroCare is a simple, fast, and multilingual AI Plant Doctor that helps farmers instantly diagnose plant diseases and get safe, eco-friendly treatment steps. Built using React, TypeScript, Vite, and Google Gemini, it works on any device without login, accounts, or complexity.
+AgroCare – Kisan Plant Doctor is a smart agriculture support platform designed to help farmers identify crop diseases early and take timely action. By using Artificial Intelligence, Computer Vision, and real-time data, AgroCare provides accurate crop health analysis, treatment suggestions, and farming assistance in a simple and farmer-friendly way.idth rural usage.
 
-AgroCare focuses on sustainable farming, preventing chemical overuse, reducing crop loss, and giving farmers clear guidance in easy language. The interface is lightweight, mobile-friendly, and designed for low-bandwidth rural usage.
-
-The system aligns with the HED 7.0 – Greenathon (Hack. Build. Sustain.) theme by solving a real agricultural problem through accessible AI, promoting environmental care, and offering a scalable tool that can be embedded in community platforms, KVKs, NGOs, and rural apps.
 
 ---
 
 ### Key Features
 
-Instant Disease Detection — Upload a photo or type symptoms and get quick diagnosis.
+🔍 Features
 
-Multimodal Support — Works with text, voice, image, and video inputs.
+📸 Photo-based Crop Health Check
 
-Regional Language Support — Get advice in Hindi, Marathi, Gujarati, Telugu, Tamil, and more.
+⚡ Instant Disease Detection
 
-Farm-Safe Treatment Suggestions — Clear, safe, and step-by-step solutions.
+🌾 Best Cure & Treatment Suggestions
 
-No Login Required — Open and use instantly.
+🇮🇳 Focused on Indian Crops & Farmers
 
-Farmer-Centric UI — Clean, simple, and distraction-free.
+🤖 AI-powered Image Analysis
 
+📱 Farmer-friendly & Easy to Use Interface
+---
+
+###🧭 Project Dashboard (Main Modules)
+
+🏠 Dashboard (Main Page) – Central access to all services
+
+🌱 Check Crop – Upload image & get health report
+
+🌦️ Weather Today – Location-based weather forecast
+
+🧑‍🌾 Local Help – Krushi Seva Kendras & expert guidance
+
+🌐 Change Language – Easy language switching
+
+📘 Project Brief – Project goals, working & impact
 ---
 
 ## 🛠 Tech Stack
