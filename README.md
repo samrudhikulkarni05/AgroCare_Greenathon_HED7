@@ -119,11 +119,6 @@ npm run dev
 npm run build
 npm run preview
 ```
-## Hackathon and HED 7.0 impact
-
-AgroCare is submitted under *Greenathon (HED 7.0 – Happy Eco Diwali 2K25)* as a tech‑driven, sustainability‑oriented solution for farmers.
-It demonstrates how AI, when designed to be inclusive and privacy‑aware, can help build a more eco‑friendly agriculture ecosystem and can be extended with features like image‑based disease detection, offline modes, and localized guides in future editions.
-
 
 ## 🌾 Using AgroCare
 
@@ -179,4 +174,4 @@ It demonstrates how AI, when designed to be inclusive and privacy‑aware, can h
 ---
 Enjoy the full-screen interactive experience! 🌿✨
 
-*Built for HED 7.0 – Greenathon: Hack. Build. Sustain.* 🌱
+ 
