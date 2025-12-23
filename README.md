@@ -169,7 +169,6 @@ All previous crop checks and reports are securely stored for future reference.
 
 ## Advantages
 
-Advantages
 
 🌱 Early Disease Detection – Identifies crop diseases at an early stage, reducing yield loss.
 
