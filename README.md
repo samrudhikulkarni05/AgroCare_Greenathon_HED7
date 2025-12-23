@@ -9,7 +9,7 @@
 AgroCare is a multimodal, farmer-first AI assistant that helps prevent crop loss and chemical overuse by giving instant, safe, and localized plant health advice in regional languages — with no login, no app install, and support for low-end devices.
 
 <p align="center">
-  <img width="1354" height="550" alt="Screenshot 2025-12-08 125421" src="![KisanDoctor Landing Page](assets/images/hero.png)" />
+  <img width="1354" height="550" alt="Screenshot 2025-12-08 125421" src="C:\Users\PRAMILA\OneDrive\Pictures\Screenshots\Screenshot 2025-12-23 202825.png" />
 </p>
 
 ---
